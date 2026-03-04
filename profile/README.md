@@ -44,4 +44,4 @@ Have a question? Our support team is available **24/7** to help you with any tec
 * **📧 Email:** Reach out to [**support@dataimpulse.com**](mailto:support@dataimpulse.com) for non-urgent inquiries or partnership suggestions.
 
 ---
-**[Get Started for $1](https://dataimpulse.com)** | **[Documentation](https://docs.dataimpulse.com/)** | **[G2 Reviews (4.8/5)](https://www.g2.com/products/dataimpulse/reviews)**
+**[Get Started for $1 per 1GB](https://dataimpulse.com)** | **[Documentation](https://docs.dataimpulse.com/)** | **[G2 Reviews (4.8/5)](https://www.g2.com/products/dataimpulse/reviews)**

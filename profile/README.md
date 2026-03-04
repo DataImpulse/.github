@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../DI-banner-728x60-2_1.png" alt="DataImpulse Banner" width="70%">
+</p>
+
 # DataImpulse: Residential, Mobile, and Datacenter Proxy Provider
 
 DataImpulse is a high-performance proxy service provider specializing in Residential, Mobile, and Datacenter proxies.
